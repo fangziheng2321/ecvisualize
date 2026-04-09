@@ -1,0 +1,1 @@
+import{c as e,t}from"./react-dom-C5wL1UG4.js";var{render:n,unmountComponentAtNode:r}=e(t());function i(e,t){n(e,t)}function a(e){r(e)}export{i as render,a as unmount};
