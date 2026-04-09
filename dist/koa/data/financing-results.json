@@ -1,0 +1,914 @@
+{
+  "results": [
+    {
+      "companyName": "上海微电子装备（集团）股份有限公司",
+      "amount": "4760万",
+      "rate": "3.15%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-04-29"
+    },
+    {
+      "companyName": "上海微电子装备（集团）股份有限公司",
+      "amount": "5640万",
+      "rate": "3.15%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-05-24"
+    },
+    {
+      "companyName": "上海微电子装备（集团）股份有限公司",
+      "amount": "6000万",
+      "rate": "3.15%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-06-30"
+    },
+    {
+      "companyName": "普华基础软件股份有限公司",
+      "amount": "7200万",
+      "rate": "3.65%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-05-27"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "2亿",
+      "rate": "3.05%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-05-27"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "2亿",
+      "rate": "3.05%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-05-27"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "2亿",
+      "rate": "3.05%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-06-17"
+    },
+    {
+      "companyName": "上海新时达电气股份有限公司",
+      "amount": "2亿",
+      "rate": "3.2%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-05-18"
+    },
+    {
+      "companyName": "上海华测导航技术股份有限公司",
+      "amount": "4000万",
+      "rate": "3.05%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-06-24"
+    },
+    {
+      "companyName": "优刻得科技股份有限公司",
+      "amount": "1亿",
+      "rate": "3.95%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2022-05-30"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "2800万",
+      "rate": "4.35%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2022-05-10"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "1亿",
+      "rate": "4.35%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2022-05-19"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "1亿",
+      "rate": "4.35%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2022-05-24"
+    },
+    {
+      "companyName": "上海众恒信息产业股份有限公司",
+      "amount": "2200万",
+      "rate": "4.1%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2022-06-14"
+    },
+    {
+      "companyName": "魔珐（上海）信息科技有限公司",
+      "amount": "3561万",
+      "rate": "4.2%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-07-28"
+    },
+    {
+      "companyName": "上海兴容信息技术有限公司",
+      "amount": "1160万",
+      "rate": "4%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-07-13"
+    },
+    {
+      "companyName": "上海凯翔信息科技有限公司",
+      "amount": "532万",
+      "rate": "3.95%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-07-21"
+    },
+    {
+      "companyName": "释普信息科技（上海）有限公司",
+      "amount": "800万",
+      "rate": "4.2%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-08-12"
+    },
+    {
+      "companyName": "上海玖道信息科技股份有限公司",
+      "amount": "1180万",
+      "rate": "4.2%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-08-05"
+    },
+    {
+      "companyName": "上海坤锐电子科技有限公司",
+      "amount": "640万",
+      "rate": "4.1%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2022-08-23"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "2200万",
+      "rate": "3.15%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2022-10-27"
+    },
+    {
+      "companyName": "上海爱数信息技术股份有限公司",
+      "amount": "4200万",
+      "rate": "3.35%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2022-11-07"
+    },
+    {
+      "companyName": "上海爱数信息技术股份有限公司",
+      "amount": "4600万",
+      "rate": "3.35%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2022-12-15"
+    },
+    {
+      "companyName": "上海德拓信息技术股份有限公司",
+      "amount": "4600万",
+      "rate": "3.4%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2022-12-23"
+    },
+    {
+      "companyName": "上海思敦信息科技有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-6-17_x000D_"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "1600万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-4-29_x000D_"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "2200万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-5-31_x000D_"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "800万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-5-31_x000D_"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-6-24_x000D_"
+    },
+    {
+      "companyName": "上海精智实业股份有限公司",
+      "amount": "800万",
+      "rate": "3.35%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-5-19_x000D_"
+    },
+    {
+      "companyName": "上海智位机器人股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海智位机器人股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海硕恩网络科技股份有限公司",
+      "amount": "800万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海明我信息技术有限公司",
+      "amount": "800万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海明我信息技术有限公司",
+      "amount": "1200万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "优刻得科技股份有限公司",
+      "amount": "6461.63万",
+      "rate": "2.65%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海宽泛科技有限公司",
+      "amount": "1400万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "上海寅家电子科技股份有限公司",
+      "amount": "600万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2022-08-00"
+    },
+    {
+      "companyName": "纵目科技（上海）股份有限公司",
+      "amount": "5000万",
+      "rate": "0.0355%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-10-30"
+    },
+    {
+      "companyName": "上海波汇科技有限公司",
+      "amount": "1800万",
+      "rate": "0.0295%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-10-30"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "800万",
+      "rate": "0.036%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-10-30"
+    },
+    {
+      "companyName": "上海左岸芯慧电子科技有限公司",
+      "amount": "1200万",
+      "rate": "0.0335%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-10-30"
+    },
+    {
+      "companyName": "施勒智能科技（上海）股份有限公司",
+      "amount": "1000万",
+      "rate": "0.041%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-10-30"
+    },
+    {
+      "companyName": "纵目科技（上海）股份有限公司",
+      "amount": "5400万",
+      "rate": "0.0355%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-12-27"
+    },
+    {
+      "companyName": "上海波汇科技有限公司",
+      "amount": "1800万",
+      "rate": "0.0295%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-12-27"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "800万",
+      "rate": "0.036%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-12-27"
+    },
+    {
+      "companyName": "上海左岸芯慧电子科技有限公司",
+      "amount": "1200万",
+      "rate": "0.0335%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-12-27"
+    },
+    {
+      "companyName": "施勒智能科技（上海）股份有限公司",
+      "amount": "1000万",
+      "rate": "0.041%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2023-12-27"
+    },
+    {
+      "companyName": "施勒智能科技（上海）股份有限公司",
+      "amount": "1000万",
+      "rate": "4.1%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-11-03"
+    },
+    {
+      "companyName": "纵目科技（上海）股份有限公司",
+      "amount": "5000万",
+      "rate": "3.55%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-10-24"
+    },
+    {
+      "companyName": "上海波汇科技有限公司",
+      "amount": "1800万",
+      "rate": "2.95%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-11-11"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "800万",
+      "rate": "3.6%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-11-18"
+    },
+    {
+      "companyName": "上海左岸芯慧电子科技有限公司",
+      "amount": "1200万",
+      "rate": "3.35%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2022-10-17"
+    },
+    {
+      "companyName": "优刻得科技股份有限公司",
+      "amount": "1701.56万",
+      "rate": "3.6%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海商米科技集团股份有限公司",
+      "amount": "4500万",
+      "rate": "3.7%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海凯翔信息科技有限公司",
+      "amount": "800万",
+      "rate": "3.65%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海欣巴自动化科技股份有限公司",
+      "amount": "2200万",
+      "rate": "3.4%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海真灼科技股份有限公司",
+      "amount": "600万",
+      "rate": "4.65%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "7200万",
+      "rate": "4.15%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海欣巴自动化科技股份有限公司",
+      "amount": "2200万",
+      "rate": "3.4%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "上海交大智邦科技有限公司",
+      "amount": "2200万",
+      "rate": "4%",
+      "institution": "兴业银行股份有限公司杭州分行",
+      "date": "2023-08-11"
+    },
+    {
+      "companyName": "优刻得科技股份有限公司",
+      "amount": "6亿",
+      "rate": "3.95%",
+      "institution": "中国光大银行股份有限公司上海分行",
+      "date": "2021-06-28"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "6.5亿",
+      "rate": "4.35%",
+      "institution": "中国光大银行股份有限公司上海分行",
+      "date": "2022-04-24"
+    },
+    {
+      "companyName": "上海众恒信息产业股份有限公司",
+      "amount": "2200万",
+      "rate": "4.1%",
+      "institution": "中国光大银行股份有限公司上海分行",
+      "date": "2022-05-30"
+    },
+    {
+      "companyName": "优刻得科技股份有限公司",
+      "amount": "1704.4万",
+      "rate": "4.85%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海波汇科技有限公司",
+      "amount": "1800万",
+      "rate": "3.4%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海众恒信息产业股份有限公司",
+      "amount": "2000万",
+      "rate": "2.52%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "2000万",
+      "rate": "4%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海众恒信息产业股份有限公司",
+      "amount": "2000万",
+      "rate": "4.35%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "2000万",
+      "rate": "3.2%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海欣巴自动化科技股份有限公司",
+      "amount": "2000万",
+      "rate": "3.9%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海欣巴自动化科技股份有限公司",
+      "amount": "2000万",
+      "rate": "4%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海交大智邦科技有限公司",
+      "amount": "2000万",
+      "rate": "4.3%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "万达信息股份有限公司",
+      "amount": "3000万",
+      "rate": "4.65%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "魔珐（上海）信息科技有限公司",
+      "amount": "3582.96万",
+      "rate": "3.48%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海华测导航技术股份有限公司",
+      "amount": "4000万",
+      "rate": "3.55%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海凯翔信息科技有限公司",
+      "amount": "532万",
+      "rate": "4.5%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海寅家电子科技股份有限公司",
+      "amount": "600万",
+      "rate": "4.25%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海真灼科技股份有限公司",
+      "amount": "600万",
+      "rate": "3.85%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海坤锐电子科技有限公司",
+      "amount": "640万",
+      "rate": "4%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海思敦信息科技有限公司",
+      "amount": "800万",
+      "rate": "4.05%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "800万",
+      "rate": "3.3%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海精智实业股份有限公司",
+      "amount": "800万",
+      "rate": "3.85%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海硕恩网络科技股份有限公司",
+      "amount": "800万",
+      "rate": "3.65%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海明我信息技术有限公司",
+      "amount": "800万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "释普信息科技（上海）有限公司",
+      "amount": "800万",
+      "rate": "4.1%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "800万",
+      "rate": "3.8%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海凯翔信息科技有限公司",
+      "amount": "800万",
+      "rate": "3.85%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海帜讯信息技术股份有限公司",
+      "amount": "1000万",
+      "rate": "4%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "施勒智能科技（上海）股份有限公司",
+      "amount": "1000万",
+      "rate": "3.95%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海兴容信息技术有限公司",
+      "amount": "1160万",
+      "rate": "3.5%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海玖道信息科技股份有限公司",
+      "amount": "1180万",
+      "rate": "3.8%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海欣诺通信技术股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海智位机器人股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海智位机器人股份有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海明我信息技术有限公司",
+      "amount": "1000万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海左岸芯慧电子科技有限公司",
+      "amount": "1000万",
+      "rate": "3.8%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海宽泛科技有限公司",
+      "amount": "1400万",
+      "rate": "3.7%",
+      "institution": "中国银行股份有限公司",
+      "date": "2023-12-31"
+    },
+    {
+      "companyName": "上海博动医疗科技股份有限公司",
+      "amount": "2000万",
+      "rate": "2.8%",
+      "institution": "上海浦东发展银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "叠境数字科技（上海）有限公司",
+      "amount": "800万",
+      "rate": "3%",
+      "institution": "中国工商银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "纽劢科技（上海）有限公司",
+      "amount": "2000万",
+      "rate": "2.55%",
+      "institution": "中国工商银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "上海七炅信息科技有限公司",
+      "amount": "288万",
+      "rate": "3.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "慷智集成电路（上海）有限公司",
+      "amount": "605.427万",
+      "rate": "3%",
+      "institution": "中信银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "上海沃橙信息技术有限公司",
+      "amount": "1372.12万",
+      "rate": "3.1%",
+      "institution": "中国银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "上海卓易科技股份有限公司",
+      "amount": "2000万",
+      "rate": "3.4%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "上海绿度信息科技股份有限公司",
+      "amount": "1456万",
+      "rate": "3.45%",
+      "institution": "中国建设银行股份有限公司",
+      "date": "2025-03-14"
+    },
+    {
+      "companyName": "英韧科技（上海）有限公司",
+      "amount": "1亿",
+      "rate": "3.1%",
+      "institution": "中国工商银行股份有限公司",
+      "date": "2025-05-15"
+    },
+    {
+      "companyName": "英韧科技（上海）有限公司",
+      "amount": "1亿",
+      "rate": "3.1%",
+      "institution": "中国工商银行股份有限公司",
+      "date": "2025-05-15"
+    },
+    {
+      "companyName": "上海微创医疗机器人（集团）股份有限公司",
+      "amount": "2.46亿",
+      "rate": "-%",
+      "institution": "招商银行股份有限公司  ",
+      "date": "2025-07-15"
+    },
+    {
+      "companyName": "上海玖道信息科技股份有限公司",
+      "amount": "2000万",
+      "rate": "3.1%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海普法芬电子科技有限公司",
+      "amount": "800万",
+      "rate": "2.8%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海源和智能科技股份有限公司",
+      "amount": "1600万",
+      "rate": "3.6%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海卓繁信息技术股份有限公司",
+      "amount": "1000万",
+      "rate": "3.1%",
+      "institution": "中国光大银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海安维尔信息科技股份有限公司",
+      "amount": "2600万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海旷沃科技有限公司",
+      "amount": "1100万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海摩马智能科技有限公司",
+      "amount": "551.52万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海普法芬电子科技有限公司",
+      "amount": "1000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海泰宇信息技术股份有限公司",
+      "amount": "2000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海有个机器人有限公司",
+      "amount": "1000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海源和智能科技股份有限公司",
+      "amount": "1000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海卓繁信息技术股份有限公司",
+      "amount": "2108万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海左岸芯慧电子科技有限公司",
+      "amount": "2000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "释普信息科技（上海）有限公司",
+      "amount": "1000万",
+      "rate": "2.5%",
+      "institution": "交通银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海交大智邦科技有限公司",
+      "amount": "1亿",
+      "rate": "2.5%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海玖道信息科技股份有限公司",
+      "amount": "6124.74万",
+      "rate": "2.5%",
+      "institution": "中国农业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海交大智邦科技有限公司",
+      "amount": "2000万",
+      "rate": "2.5%",
+      "institution": "兴业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海铼锶信息技术有限公司",
+      "amount": "800万",
+      "rate": "3.1%",
+      "institution": "兴业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海普法芬电子科技有限公司",
+      "amount": "1000万",
+      "rate": "3.2%",
+      "institution": "兴业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "上海有个机器人有限公司",
+      "amount": "1196.18万",
+      "rate": "3.2%",
+      "institution": "兴业银行股份有限公司",
+      "date": "2026-01-07"
+    },
+    {
+      "companyName": "释普信息科技（上海）有限公司",
+      "amount": "2000万",
+      "rate": "2.5%",
+      "institution": "兴业银行股份有限公司",
+      "date": "2026-01-07"
+    }
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "人工智能",
+      "value": 993,
+      "group": "产业链"
+    },
+    {
+      "id": "2",
+      "label": "AI计算框架",
+      "value": 1,
+      "group": "上游"
+    },
+    {
+      "id": "3",
+      "label": "AI计算硬件",
+      "value": 82,
+      "group": "上游"
+    },
+    {
+      "id": "4",
+      "label": "AI数据平台",
+      "value": 297,
+      "group": "上游"
+    },
+    {
+      "id": "5",
+      "label": "机器感知",
+      "value": 189,
+      "group": "中游"
+    },
+    {
+      "id": "6",
+      "label": "跨媒体智能",
+      "value": 9,
+      "group": "中游"
+    },
+    {
+      "id": "7",
+      "label": "机器学习",
+      "value": 42,
+      "group": "中游"
+    },
+    {
+      "id": "8",
+      "label": "大数据智能",
+      "value": 103,
+      "group": "中游"
+    },
+    {
+      "id": "9",
+      "label": "人机交互与增强智能",
+      "value": 54,
+      "group": "中游"
+    },
+    {
+      "id": "10",
+      "label": "自主智能系统",
+      "value": 90,
+      "group": "中游"
+    },
+    {
+      "id": "11",
+      "label": "群体智能",
+      "value": 10,
+      "group": "中游"
+    },
+    {
+      "id": "12",
+      "label": "应用场景",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "13",
+      "label": "AI操作系统",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "14",
+      "label": "AI开发语言",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "15",
+      "label": "AI开源框架",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "16",
+      "label": "AI开放平台",
+      "value": 1,
+      "group": "上游"
+    },
+    {
+      "id": "17",
+      "label": "超大图计算",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "18",
+      "label": "智能传感器",
+      "value": 47,
+      "group": "上游"
+    },
+    {
+      "id": "19",
+      "label": "AI芯片",
+      "value": 9,
+      "group": "上游"
+    },
+    {
+      "id": "20",
+      "label": "云计算",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "21",
+      "label": "边缘计算",
+      "value": 17,
+      "group": "上游"
+    },
+    {
+      "id": "22",
+      "label": "数据采集",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "23",
+      "label": "数据存储",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "24",
+      "label": "数据标注",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "25",
+      "label": "数据安全",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "26",
+      "label": "数据治理",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "27",
+      "label": "数据交易",
+      "value": 3,
+      "group": "上游"
+    },
+    {
+      "id": "28",
+      "label": "数据可视化",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "29",
+      "label": "数据开放与共享",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "30",
+      "label": "大数据中心",
+      "value": 0,
+      "group": "上游"
+    },
+    {
+      "id": "31",
+      "label": "计算机视觉",
+      "value": 155,
+      "group": "中游"
+    },
+    {
+      "id": "32",
+      "label": "语音识别",
+      "value": 10,
+      "group": "中游"
+    },
+    {
+      "id": "33",
+      "label": "自然语言处理（NLP）",
+      "value": 36,
+      "group": "中游"
+    },
+    {
+      "id": "34",
+      "label": "激光雷达感知",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "35",
+      "label": "生物特征识别",
+      "value": 18,
+      "group": "中游"
+    },
+    {
+      "id": "36",
+      "label": "量子智能计算",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "37",
+      "label": "多传感器融合",
+      "value": 5,
+      "group": "中游"
+    },
+    {
+      "id": "38",
+      "label": "模式识别",
+      "value": 3,
+      "group": "中游"
+    },
+    {
+      "id": "39",
+      "label": "跨媒体学习",
+      "value": 1,
+      "group": "中游"
+    },
+    {
+      "id": "40",
+      "label": "跨媒体描述与生成",
+      "value": 5,
+      "group": "中游"
+    },
+    {
+      "id": "41",
+      "label": "跨媒体表示与推理",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "42",
+      "label": "传统机器学习",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "43",
+      "label": "深度学习",
+      "value": 39,
+      "group": "中游"
+    },
+    {
+      "id": "44",
+      "label": "强化学习",
+      "value": 2,
+      "group": "中游"
+    },
+    {
+      "id": "45",
+      "label": "新型机器学习",
+      "value": 2,
+      "group": "中游"
+    },
+    {
+      "id": "46",
+      "label": "机器翻译",
+      "value": 2,
+      "group": "中游"
+    },
+    {
+      "id": "47",
+      "label": "数据挖掘",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "48",
+      "label": "知识表示与知识图谱",
+      "value": 5,
+      "group": "中游"
+    },
+    {
+      "id": "49",
+      "label": "知识问答",
+      "value": 8,
+      "group": "中游"
+    },
+    {
+      "id": "50",
+      "label": "搜索与推荐",
+      "value": 22,
+      "group": "中游"
+    },
+    {
+      "id": "51",
+      "label": "运筹与规划",
+      "value": 1,
+      "group": "中游"
+    },
+    {
+      "id": "52",
+      "label": "推理与决策",
+      "value": 1,
+      "group": "中游"
+    },
+    {
+      "id": "53",
+      "label": "人机交互",
+      "value": 27,
+      "group": "中游"
+    },
+    {
+      "id": "54",
+      "label": "虚拟现实/增强现实",
+      "value": 29,
+      "group": "中游"
+    },
+    {
+      "id": "55",
+      "label": "脑机融合",
+      "value": 4,
+      "group": "中游"
+    },
+    {
+      "id": "56",
+      "label": "人机混合增强智能",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "57",
+      "label": "工业机器人",
+      "value": 54,
+      "group": "中游"
+    },
+    {
+      "id": "58",
+      "label": "服务机器人",
+      "value": 58,
+      "group": "中游"
+    },
+    {
+      "id": "59",
+      "label": "特种机器人",
+      "value": 10,
+      "group": "中游"
+    },
+    {
+      "id": "60",
+      "label": "虚拟数字人",
+      "value": 2,
+      "group": "中游"
+    },
+    {
+      "id": "61",
+      "label": "自主进化系统",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "62",
+      "label": "自主无人系统",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "63",
+      "label": "分布式群体智能",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "64",
+      "label": "联邦机器学习",
+      "value": 10,
+      "group": "中游"
+    },
+    {
+      "id": "65",
+      "label": "多智能体系统",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "66",
+      "label": "集群式群体智能",
+      "value": 0,
+      "group": "中游"
+    },
+    {
+      "id": "67",
+      "label": "智慧农业",
+      "value": 5,
+      "group": "下游"
+    },
+    {
+      "id": "68",
+      "label": "智能制造",
+      "value": 39,
+      "group": "下游"
+    },
+    {
+      "id": "69",
+      "label": "智慧能源",
+      "value": 4,
+      "group": "下游"
+    },
+    {
+      "id": "70",
+      "label": "智能安防",
+      "value": 6,
+      "group": "下游"
+    },
+    {
+      "id": "71",
+      "label": "智能家居",
+      "value": 31,
+      "group": "下游"
+    },
+    {
+      "id": "72",
+      "label": "智能环保",
+      "value": 1,
+      "group": "下游"
+    },
+    {
+      "id": "73",
+      "label": "智慧海洋",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "74",
+      "label": "智慧食品",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "75",
+      "label": "智慧建筑",
+      "value": 4,
+      "group": "下游"
+    },
+    {
+      "id": "76",
+      "label": "智能服务",
+      "value": 20,
+      "group": "下游"
+    },
+    {
+      "id": "77",
+      "label": "智能交通",
+      "value": 44,
+      "group": "下游"
+    },
+    {
+      "id": "78",
+      "label": "智能物流",
+      "value": 11,
+      "group": "下游"
+    },
+    {
+      "id": "79",
+      "label": "智能金融",
+      "value": 3,
+      "group": "下游"
+    },
+    {
+      "id": "80",
+      "label": "智能商务",
+      "value": 1,
+      "group": "下游"
+    },
+    {
+      "id": "81",
+      "label": "智能教育",
+      "value": 2,
+      "group": "下游"
+    },
+    {
+      "id": "82",
+      "label": "智能文娱",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "83",
+      "label": "智慧城市",
+      "value": 5,
+      "group": "下游"
+    },
+    {
+      "id": "84",
+      "label": "智能零售",
+      "value": 4,
+      "group": "下游"
+    },
+    {
+      "id": "85",
+      "label": "智能医疗",
+      "value": 5,
+      "group": "下游"
+    },
+    {
+      "id": "86",
+      "label": "智慧房产",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "87",
+      "label": "智慧电信",
+      "value": 0,
+      "group": "下游"
+    },
+    {
+      "id": "88",
+      "label": "智能政务",
+      "value": 1,
+      "group": "下游"
+    },
+    {
+      "id": "89",
+      "label": "智能司法",
+      "value": 0,
+      "group": "下游"
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "source": "2",
+      "target": "13"
+    },
+    {
+      "source": "2",
+      "target": "14"
+    },
+    {
+      "source": "2",
+      "target": "15"
+    },
+    {
+      "source": "2",
+      "target": "16"
+    },
+    {
+      "source": "2",
+      "target": "17"
+    },
+    {
+      "source": "1",
+      "target": "3"
+    },
+    {
+      "source": "3",
+      "target": "18"
+    },
+    {
+      "source": "3",
+      "target": "19"
+    },
+    {
+      "source": "3",
+      "target": "20"
+    },
+    {
+      "source": "3",
+      "target": "21"
+    },
+    {
+      "source": "1",
+      "target": "4"
+    },
+    {
+      "source": "4",
+      "target": "22"
+    },
+    {
+      "source": "4",
+      "target": "23"
+    },
+    {
+      "source": "4",
+      "target": "24"
+    },
+    {
+      "source": "4",
+      "target": "25"
+    },
+    {
+      "source": "4",
+      "target": "26"
+    },
+    {
+      "source": "4",
+      "target": "27"
+    },
+    {
+      "source": "4",
+      "target": "28"
+    },
+    {
+      "source": "4",
+      "target": "29"
+    },
+    {
+      "source": "4",
+      "target": "30"
+    },
+    {
+      "source": "1",
+      "target": "5"
+    },
+    {
+      "source": "5",
+      "target": "31"
+    },
+    {
+      "source": "5",
+      "target": "32"
+    },
+    {
+      "source": "5",
+      "target": "33"
+    },
+    {
+      "source": "5",
+      "target": "34"
+    },
+    {
+      "source": "5",
+      "target": "35"
+    },
+    {
+      "source": "5",
+      "target": "36"
+    },
+    {
+      "source": "1",
+      "target": "6"
+    },
+    {
+      "source": "6",
+      "target": "37"
+    },
+    {
+      "source": "6",
+      "target": "38"
+    },
+    {
+      "source": "6",
+      "target": "39"
+    },
+    {
+      "source": "6",
+      "target": "40"
+    },
+    {
+      "source": "6",
+      "target": "41"
+    },
+    {
+      "source": "1",
+      "target": "7"
+    },
+    {
+      "source": "7",
+      "target": "42"
+    },
+    {
+      "source": "7",
+      "target": "43"
+    },
+    {
+      "source": "7",
+      "target": "44"
+    },
+    {
+      "source": "7",
+      "target": "45"
+    },
+    {
+      "source": "7",
+      "target": "46"
+    },
+    {
+      "source": "1",
+      "target": "8"
+    },
+    {
+      "source": "8",
+      "target": "47"
+    },
+    {
+      "source": "8",
+      "target": "48"
+    },
+    {
+      "source": "8",
+      "target": "49"
+    },
+    {
+      "source": "8",
+      "target": "50"
+    },
+    {
+      "source": "8",
+      "target": "51"
+    },
+    {
+      "source": "8",
+      "target": "52"
+    },
+    {
+      "source": "1",
+      "target": "9"
+    },
+    {
+      "source": "9",
+      "target": "53"
+    },
+    {
+      "source": "9",
+      "target": "54"
+    },
+    {
+      "source": "9",
+      "target": "55"
+    },
+    {
+      "source": "9",
+      "target": "56"
+    },
+    {
+      "source": "1",
+      "target": "10"
+    },
+    {
+      "source": "10",
+      "target": "57"
+    },
+    {
+      "source": "10",
+      "target": "58"
+    },
+    {
+      "source": "10",
+      "target": "59"
+    },
+    {
+      "source": "10",
+      "target": "60"
+    },
+    {
+      "source": "10",
+      "target": "61"
+    },
+    {
+      "source": "10",
+      "target": "62"
+    },
+    {
+      "source": "1",
+      "target": "11"
+    },
+    {
+      "source": "11",
+      "target": "63"
+    },
+    {
+      "source": "11",
+      "target": "64"
+    },
+    {
+      "source": "11",
+      "target": "65"
+    },
+    {
+      "source": "11",
+      "target": "66"
+    },
+    {
+      "source": "1",
+      "target": "12"
+    },
+    {
+      "source": "12",
+      "target": "67"
+    },
+    {
+      "source": "12",
+      "target": "68"
+    },
+    {
+      "source": "12",
+      "target": "69"
+    },
+    {
+      "source": "12",
+      "target": "70"
+    },
+    {
+      "source": "12",
+      "target": "71"
+    },
+    {
+      "source": "12",
+      "target": "72"
+    },
+    {
+      "source": "12",
+      "target": "73"
+    },
+    {
+      "source": "12",
+      "target": "74"
+    },
+    {
+      "source": "12",
+      "target": "75"
+    },
+    {
+      "source": "12",
+      "target": "76"
+    },
+    {
+      "source": "12",
+      "target": "77"
+    },
+    {
+      "source": "12",
+      "target": "78"
+    },
+    {
+      "source": "12",
+      "target": "79"
+    },
+    {
+      "source": "12",
+      "target": "80"
+    },
+    {
+      "source": "12",
+      "target": "81"
+    },
+    {
+      "source": "12",
+      "target": "82"
+    },
+    {
+      "source": "12",
+      "target": "83"
+    },
+    {
+      "source": "12",
+      "target": "84"
+    },
+    {
+      "source": "12",
+      "target": "85"
+    },
+    {
+      "source": "12",
+      "target": "86"
+    },
+    {
+      "source": "12",
+      "target": "87"
+    },
+    {
+      "source": "12",
+      "target": "88"
+    },
+    {
+      "source": "12",
+      "target": "89"
+    }
+  ]
+}

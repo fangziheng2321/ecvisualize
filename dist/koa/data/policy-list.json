@@ -1,0 +1,364 @@
+{
+  "policies": [
+    {
+      "title": "《人工智能安全治理三年行动计划 (2026-2028 年)》",
+      "link": "https://www.miit.gov.cn/jgsj/znjjs/gzdt/art/2026/art_9c7d5f8a6d784251a8d9e7f6c8b9d124.html",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "-",
+      "publisher": "工信部、中央网信办、教育部、公安部等七部门",
+      "source": "工信部、中央网信办、教育部、公安部等七部门",
+      "publishDate": "2026-03-10"
+    },
+    {
+      "title": "《海南省推动 “人工智能 +” 行动方案（2026—2028 年）》",
+      "link": "https://www.hainan.gov.cn/hainan/szfbgt/202602/t20260228_3768945.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "海南省人民政府办公厅",
+      "source": "海南省人民政府办公厅",
+      "publishDate": "2026-02-24"
+    },
+    {
+      "title": "《安徽省 “人工智能 + 万物” 应用行动方案》",
+      "link": "https://www.ah.gov.cn/zwgk/zcwj/szfbgtwj/202601/t20260126_4789621.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "安徽省人民政府办公厅",
+      "source": "安徽省人民政府办公厅",
+      "publishDate": "2026-01-19"
+    },
+    {
+      "title": "《广西深入实施 “人工智能＋” 三年行动方案（2026—2028 年）》",
+      "link": "https://www.gxzf.gov.cn/zwgk/zfgb/2026/d2q_16141/202601/t20260126_33456788.shtml",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "广西壮族自治区人民政府办公厅",
+      "source": "广西壮族自治区人民政府办公厅",
+      "publishDate": "2026-01-08"
+    },
+    {
+      "title": "《“人工智能 + 制造” 专项行动实施意见》",
+      "link": "https://www.miit.gov.cn/jgsj/znjjs/gzdt/art/2026/art_8b0a3c2a4c4840789f3d8f987a2b3c23.html",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "-",
+      "publisher": "工信部、中央网信办、国家发改委等八部门",
+      "source": "工信部、中央网信办、国家发改委等八部门",
+      "publishDate": "2026-01-07"
+    },
+    {
+      "title": "《四川省人工智能赋能新型工业化三年行动方案（2025—2027 年）》",
+      "link": "https://www.sc.gov.cn/10462/10464/10465/10797/2026/1/5/c050d40a0c8e4f38a0d3b2c5d8a9f8b0.shtml",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "四川省人民政府办公厅",
+      "source": "四川省人民政府办公厅",
+      "publishDate": "2025-12-30"
+    },
+    {
+      "title": "《江苏省 “人工智能＋” 行动方案》（苏政发〔2025〕108 号）",
+      "link": "https://www.jiangsu.gov.cn/art/2026/art_46143_11726564.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "苏政发〔2025〕108 号",
+      "publisher": "江苏省人民政府",
+      "source": "江苏省人民政府",
+      "publishDate": "2025-12-29"
+    },
+    {
+      "title": "《重庆市推动 “人工智能 +” 行动方案》",
+      "link": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/jgzz/srmzfbgt/202512/t20251224_12990777.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "重庆市人民政府办公厅",
+      "source": "重庆市人民政府办公厅",
+      "publishDate": "2025-12-17"
+    },
+    {
+      "title": "《山东省人工智能产业高质量发展行动计划（2025-2027 年）》",
+      "link": "https://gxt.shandong.gov.cn/art/2025/11/11/art_15205_10347689.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "山东省工信厅、山东省发改委等部门",
+      "source": "山东省工信厅、山东省发改委等部门",
+      "publishDate": "2025-11-10"
+    },
+    {
+      "title": "《广东省人工智能赋能制造业高质量发展行动方案（2025—2027 年）》",
+      "link": "http://www.gd.gov.cn/gdywdt/zwzt/kjzlzq/cy/content/post_4787867.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "广东省人民政府办公厅",
+      "source": "广东省人民政府办公厅",
+      "publishDate": "2025-10-21"
+    },
+    {
+      "title": "《国务院关于深入实施 “人工智能 +” 行动的意见》（国发〔2025〕11 号）",
+      "link": "https://www.gov.cn/zhengce/content/2025-08/26/content_7037862.htm",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "国发〔2025〕11 号",
+      "publisher": "国务院",
+      "source": "国务院",
+      "publishDate": "2025-08-26"
+    },
+    {
+      "title": "上海市加快推动 “AI + 制造” 发展的实施方案",
+      "link": "https://www.shanghai.gov.cn/hqcyfz2/20250822/69f7518233054ddf9e991f511a866ecc.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会、上海市发展和改革委员会、上海市国有资产监督管理委员会",
+      "source": "上海市经济和信息化委员会、上海市发展和改革委员会、上海市国有资产监督管理委员会",
+      "publishDate": "2025-08-11"
+    },
+    {
+      "title": "上海市具身智能产业发展实施方案",
+      "link": "https://www.shanghai.gov.cn/202516bgtwj/20250825/f70d22648e044f4e8c395431ffc5493e.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市人民政府办公厅",
+      "source": "上海市人民政府办公厅",
+      "publishDate": "2025-07-28"
+    },
+    {
+      "title": "上海市进一步扩大人工智能应用的若干措施",
+      "link": "https://www.shanghai.gov.cn/zjfcsj/20251024/28bb5b0d563b468b95cc0defa2a6bc60.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会",
+      "source": "上海市经济和信息化委员会",
+      "publishDate": "2025-07-28"
+    },
+    {
+      "title": "上海城市空间治理领域人工智能应用暨量子城市空间智能建设工作实施方案（2026—2027 年）",
+      "link": "https://www.shanghai.gov.cn/cmsres/1d/1d7a42cad45544bbb259744adf96e4f0/f8a3dcb1fc78ed5343c545c83b38b372.pdf上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市规划和自然资源局",
+      "source": "上海市规划和自然资源局",
+      "publishDate": "2025-07-08"
+    },
+    {
+      "title": "《天津市促进人工智能创新发展行动方案（2025—2027 年）》",
+      "link": "https://www.tj.gov.cn/zwgk/szfwj/tjszfbgtwj/202505/t20250522_6590111.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "天津市人民政府办公厅",
+      "source": "天津市人民政府办公厅",
+      "publishDate": "2025-05-17"
+    },
+    {
+      "title": "《浙江省关于支持人工智能创新发展若干措施》",
+      "link": "https://www.zj.gov.cn/art/2025/5/19/art_1229013544_58997589.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "浙江省人民政府",
+      "source": "浙江省人民政府",
+      "publishDate": "2025-05-16"
+    },
+    {
+      "title": "《关于人工智能 “模塑申城” 的实施方案》（沪府办发〔2024〕27 号）",
+      "link": "https://www.shanghai.gov.cn/202502bgtwj/202502/t20250220_1119244.html",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "沪府办发〔2024〕27 号",
+      "publisher": "上海市人民政府办公厅",
+      "source": "上海市人民政府办公厅",
+      "publishDate": "2024-12-20"
+    },
+    {
+      "title": "关于人工智能 “模塑申城” 的实施方案",
+      "link": "https://www.shanghai.gov.cn/202502bgtwj/20250220/77b163177e954e8c929f90ec43fc92b7.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市人民政府办公厅",
+      "source": "上海市人民政府办公厅",
+      "publishDate": "2024-12-20"
+    },
+    {
+      "title": "上海市推进实施人工智能赋能基础教育高质量发展的行动方案（2024-2026 年）",
+      "link": "https://edu.sh.gov.cn/xxgk2_zdgz_jyxxh_03/20241217/d41f0919ad4446f28076eb15c5669070.html上海教委",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市教育委员会",
+      "source": "上海市教育委员会",
+      "publishDate": "2024-09-24"
+    },
+    {
+      "title": "《北京市推动 “人工智能 +” 行动计划（2024-2025 年）》",
+      "link": "https://fgw.beijing.gov.cn/zwxx/zcwj/qt/202407/t20240730_3710244.htm",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "北京市发改委、北京市经信局等部门",
+      "source": "北京市发改委、北京市经信局等部门",
+      "publishDate": "2024-07-26"
+    },
+    {
+      "title": "《人工智能人才培养行动计划（2024-2026 年）》",
+      "link": "https://www.miiteec.org.cn/plus/view.php?aid=1614",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "-",
+      "publisher": "工信部教育与考试中心",
+      "source": "工信部教育与考试中心",
+      "publishDate": "2024-06-27"
+    },
+    {
+      "title": "《广东省人工智能赋能千行百业若干措施》",
+      "link": "https://www.gd.gov.cn/zwgk/wjk/qbwj/yfb/content/post_4356789.html",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "广东省人民政府办公厅",
+      "source": "广东省人民政府办公厅",
+      "publishDate": "2024-06-06"
+    },
+    {
+      "title": "上海市推进 “人工智能 +” 行动 打造 “智慧好办” 政务服务实施方案",
+      "link": "https://www.shanghai.gov.cn/nw12344/20240520/aadea592d4bf49fa93f226b495583e4e.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市人民政府办公厅",
+      "source": "上海市人民政府办公厅",
+      "publishDate": "2024-05-17"
+    },
+    {
+      "title": "上海市推动人工智能大模型创新发展若干措施（2023-2025 年）",
+      "link": "https://www.shanghai.gov.cn/hqcyfz2/20231110/9736538f3a304b63902558e1ace89f7a.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会、市发展改革委、市科委、市委网信办、市财政局",
+      "source": "上海市经济和信息化委员会、市发展改革委、市科委、市委网信办、市财政局",
+      "publishDate": "2023-10-20"
+    },
+    {
+      "title": "上海市进一步推进新型基础设施建设行动方案（2023－2026 年）",
+      "link": "https://www.shanghai.gov.cn/cmsres/e4/e481c4a1f4614fc38229d8b9d0ae7c52/c627aec035000ab02646d7a1dedca58c.pdf上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市人民政府",
+      "source": "上海市人民政府",
+      "publishDate": "2023-09-15"
+    },
+    {
+      "title": "上海市促进人工智能产业发展条例",
+      "link": "https://www.shanghai.gov.cn/hqcyfz2/20230627/3a1fcfeff9234e8e9e6623eb12b49522.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市第十五届人民代表大会常务委员会",
+      "source": "上海市第十五届人民代表大会常务委员会",
+      "publishDate": "2022-09-22"
+    },
+    {
+      "title": "上海市人工智能产业发展 “十四五” 规划",
+      "link": "https://www.shanghai.gov.cn/cmsres/00/0032114b7b6d4603b41878bf39395470/a0ba78cafce9f35724b50372c02fa05f.pdf上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会",
+      "source": "上海市经济和信息化委员会",
+      "publishDate": "2021-12-27"
+    },
+    {
+      "title": "《“十四五” 数字经济发展规划》（国发〔2021〕29 号）",
+      "link": "https://www.gov.cn/zhengce/content/2022-01/12/content_5667897.htm",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "国发〔2021〕29 号",
+      "publisher": "国务院",
+      "source": "国务院",
+      "publishDate": "2021-12-12"
+    },
+    {
+      "title": "上海新一代人工智能算法创新行动计划（2021-2023 年）",
+      "link": "https://www.shanghai.gov.cn/hqcyfz2/20240611/00206645aed147719c85bd1927884bce.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会、市发展改革委、市教委、市科委",
+      "source": "上海市经济和信息化委员会、市发展改革委、市教委、市科委",
+      "publishDate": "2021-07-08"
+    },
+    {
+      "title": "《国家新一代人工智能标准体系建设指南》",
+      "link": "https://www.sac.gov.cn/xxgk/tzgg/202008/t20200804_43714.html",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "-",
+      "publisher": "国家标准化管理委员会、中央网信办、发改委、科技部、工信部",
+      "source": "国家标准化管理委员会、中央网信办、发改委、科技部、工信部",
+      "publishDate": "2020-07-27"
+    },
+    {
+      "title": "关于建设人工智能上海高地 构建一流创新生态的行动方案（2019-2021 年）",
+      "link": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_62725.html上海市政府",
+      "level": "shanghai",
+      "levelText": "上海政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会",
+      "source": "上海市经济和信息化委员会",
+      "publishDate": "2019-09-13"
+    },
+    {
+      "title": "关于加快推进人工智能高质量发展的实施办法",
+      "link": "https://app.sheitc.sh.gov.cn/sswgh/679122.htm上海经信委",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "上海市经济和信息化委员会、市发展改革委、市科委、市人力资源社会保障局、市财政局",
+      "source": "上海市经济和信息化委员会、市发展改革委、市科委、市人力资源社会保障局、市财政局",
+      "publishDate": "2018-09-17"
+    },
+    {
+      "title": "关于本市推动新一代人工智能发展的实施意见",
+      "link": "https://www.shanghai.gov.cn/nw42639/20200823/0001-42639_54242.html上海市政府",
+      "level": "provincial",
+      "levelText": "省级政策",
+      "docNumber": "-",
+      "publisher": "上海市人民政府办公厅",
+      "source": "上海市人民政府办公厅",
+      "publishDate": "2017-11-14"
+    },
+    {
+      "title": "《新一代人工智能发展规划》（国发〔2017〕35 号）",
+      "link": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "国发〔2017〕35 号",
+      "publisher": "国务院",
+      "source": "国务院",
+      "publishDate": "2017-07-20"
+    },
+    {
+      "title": "《“互联网 +” 人工智能三年行动实施方案》（发改高技〔2016〕1078 号）",
+      "link": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/201605/t20160523_812172.html",
+      "level": "national",
+      "levelText": "国家政策",
+      "docNumber": "发改高技〔2016〕1078 号",
+      "publisher": "国家发改委、科技部、工信部、中央网信办",
+      "source": "国家发改委、科技部、工信部、中央网信办",
+      "publishDate": "2016-05-18"
+    }
+  ]
+}

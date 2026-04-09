@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "name": "信用快贷",
+      "institution": "中国建设银行股份有限公司",
+      "amountRange": "最高300万",
+      "rateRange": "4.25%起"
+    },
+    {
+      "name": "新材料产业集群贷",
+      "institution": "中国建设银行股份有限公司",
+      "amountRange": "200万-5亿",
+      "rateRange": "3%起"
+    },
+    {
+      "name": "兴速贷(黑金私行客户专属)",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "兴业科技贷",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "兴速贷",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "兴速贷（保证增信专属）",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "选择权贷款",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "直接股权投资",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "知识产权质押融资",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "投贷联动贷款",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高5000万",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "高科技人才创业贷款",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高2000万",
+      "rateRange": "3.55%起"
+    },
+    {
+      "name": "科创云贷",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高500万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "科技贷",
+      "institution": "兴业银行股份有限公司",
+      "amountRange": "最高2000万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "浦创贷",
+      "institution": "上海浦东发展银行股份有限公司",
+      "amountRange": "最高500万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "浦链贷",
+      "institution": "上海浦东发展银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "浦新贷",
+      "institution": "上海浦东发展银行股份有限公司",
+      "amountRange": "最高3000万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "账权池",
+      "institution": "招商银行股份有限公司",
+      "amountRange": "100万-10亿",
+      "rateRange": "3%-6%"
+    },
+    {
+      "name": "中银企E贷·抵押贷",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "中银科创-算力贷",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "最高10亿",
+      "rateRange": "面议"
+    },
+    {
+      "name": "订单融资",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "国内商业发票贴现",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "出口商业发票贴现",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "出口贴现",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "出口押汇",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "汇出汇款融资",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "进口押汇",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "中银企E贷·知惠贷",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "中银企E贷·银税贷",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "最高300万",
+      "rateRange": "0%-4.35%"
+    },
+    {
+      "name": "中银企E贷·惠担贷",
+      "institution": "中国银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "苏微贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "科技易贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "最高3000万",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "微捷贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "最高300万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "链捷贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "流动资金贷款",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "纳税e贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "最高200万",
+      "rateRange": "面议"
+    },
+    {
+      "name": "银行承兑汇票贴现",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "商业承兑汇票贴现",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "专精特新小巨人贷",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "进口押汇",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "先进制造贷（深圳）",
+      "institution": "中国农业银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "面议"
+    },
+    {
+      "name": "中国工商银行-税务贷",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高500万",
+      "rateRange": "3.85%-4.45%"
+    },
+    {
+      "name": "中国工商银行-e抵快贷",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "2.85%起"
+    },
+    {
+      "name": "中国工商银行-工银e信",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高5亿",
+      "rateRange": "3.85%-6%"
+    },
+    {
+      "name": "固定资产贷款",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高100亿",
+      "rateRange": "面议"
+    },
+    {
+      "name": "小微e贷",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高1000万",
+      "rateRange": "3.25%-4.15%"
+    },
+    {
+      "name": "制造业企业技术提升支持贷款",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "3000万-1亿",
+      "rateRange": "4.35%起"
+    },
+    {
+      "name": "流动资金贷款",
+      "institution": "中国工商银行股份有限公司",
+      "amountRange": "最高5亿",
+      "rateRange": "面议"
+    },
+    {
+      "name": "线上抵押贷",
+      "institution": "交通银行股份有限公司",
+      "amountRange": "1000-1000",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "线上税融通（企业版）",
+      "institution": "交通银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "0%-无%"
+    },
+    {
+      "name": "线上税融通（个人版）",
+      "institution": "交通银行股份有限公司",
+      "amountRange": "面议",
+      "rateRange": "0%-无%"
+    }
+  ]
+}
